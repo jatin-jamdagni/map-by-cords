@@ -13,6 +13,7 @@ import { Card, CardContent, CardHeader, CardTitle } from "@/components/ui/card";
 import Timeline from "@/components/Timeline";
 import { locations } from "@/lib/Locations";
 import { useState } from "react";
+ 
 
 Icon.Default.imagePath =
   "https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.7.1/images/";
